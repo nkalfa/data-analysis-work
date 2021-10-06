@@ -1,2 +1,3 @@
 # data-analysis-work
-Datasets to analyse using ML, statistics, probability.
+1. Weather Trends analysis project
+2. The Movie Database (TMDb) analysis project
